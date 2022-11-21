@@ -4,7 +4,7 @@ Katherine Wong
 Bennett Zhang
 
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
-- Within a Github action that runs whenever code is pushed. Since the website deploys on its own through github pages, we can automatically test this through github actions and the tests pass before so we can prevent buggy code from entering the existing codebase.s
+- Within a Github action that runs whenever code is pushed. Since the website deploys on its own through github pages, we can automatically test this through github actions and have the tests pass before so we can prevent buggy code from entering the existing codebase.
 
 2) Would you use an end to end test to check if a function is returning the correct output? 
 - No, end to end testing is used for UI testing and testing user actions/flow.
